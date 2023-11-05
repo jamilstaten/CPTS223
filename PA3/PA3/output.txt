@@ -1,0 +1,10 @@
+Testing ChainingHash:
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 915[ms]
+current size: 99999 bucket count: 222461 load factor: 0.449513
+============================
+Testing ProbingHash:
+current size: 0 bucket count: 101 load factor: 0
+Time difference = 92[ms]
+current size: 99999 bucket count: 222461 load factor: 0.449513
+============================

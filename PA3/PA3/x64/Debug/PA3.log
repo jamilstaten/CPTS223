@@ -1,0 +1,30 @@
+﻿  main.cpp
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(134,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(133,9): message : while compiling class template member function 'int ProbingHash<int,int>::bucket_count(void) const'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(138,9): message : see the first reference to 'ProbingHash<int,int>::bucket_count' in 'ProbingHash<int,int>::load_factor'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\main.cpp(35,27): message : see reference to class template instantiation 'ProbingHash<int,int>' being compiled
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(24,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(23,9): message : while compiling class template member function 'int ProbingHash<int,int>::hash(const K &) const'
+          with
+          [
+              K=int
+          ]
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(115,17): message : see the first reference to 'ProbingHash<int,int>::hash' in 'ProbingHash<int,int>::erase'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(116,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(115,9): message : while compiling class template member function 'int ChainingHash<int,int>::bucket_count(void) const'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(120,9): message : see the first reference to 'ChainingHash<int,int>::bucket_count' in 'ChainingHash<int,int>::load_factor'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\main.cpp(30,28): message : see reference to class template instantiation 'ChainingHash<int,int>' being compiled
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(17,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(16,9): message : while compiling class template member function 'int ChainingHash<int,int>::hash(const K &) const'
+          with
+          [
+              K=int
+          ]
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(96,15): message : see the first reference to 'ChainingHash<int,int>::hash' in 'ChainingHash<int,int>::erase'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(28,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(27,10): message : while compiling class template member function 'void ProbingHash<int,int>::rehash(void)'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ProbingHash.h(96,19): message : see the first reference to 'ProbingHash<int,int>::rehash' in 'ProbingHash<int,int>::insert'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(21,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(20,10): message : while compiling class template member function 'void ChainingHash<int,int>::rehash(void)'
+\\Mac\Home\Desktop\school fall soph\PA3\PA3\ChainingHash.h(80,19): message : see the first reference to 'ChainingHash<int,int>::rehash' in 'ChainingHash<int,int>::insert'
+  PA3.vcxproj -> \\Mac\Home\Desktop\school fall soph\PA3\x64\Debug\PA3.exe
