@@ -1,0 +1,26 @@
+﻿  main.cpp
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(96,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(94,4): message : while compiling class template member function 'T Heap<T>::pop(void)'
+          with
+          [
+              T=int
+          ]
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\main.cpp(29,9): message : see the first reference to 'Heap<int>::pop' in 'runHeap'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\main.cpp(17,20): message : see reference to class template instantiation 'Heap<int>' being compiled
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(136,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(134,20): message : while compiling class template member function 'unsigned long Heap<int>::size(void) const'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(99,3): message : see the first reference to 'Heap<int>::size' in 'Heap<int>::pop'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\main.cpp(29,9): message : see the first reference to 'Heap<int>::pop' in 'runHeap'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(61,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(59,7): message : while compiling class template member function 'void Heap<int>::percolateUp(T)'
+          with
+          [
+              T=int
+          ]
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(88,14): message : see the first reference to 'Heap<int>::percolateUp' in 'Heap<int>::push'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\main.cpp(19,17): message : see the first reference to 'Heap<int>::push' in 'runHeap'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(39,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(35,7): message : while compiling class template member function 'void Heap<int>::percolateDown(unsigned int)'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\Heap.h(109,17): message : see the first reference to 'Heap<int>::percolateDown' in 'Heap<int>::pop'
+\\Mac\Home\Desktop\school fall soph\MA4\MA4\main.cpp(29,9): message : see the first reference to 'Heap<int>::pop' in 'runHeap'
+  MA4.vcxproj -> \\Mac\Home\Desktop\school fall soph\MA4\x64\Debug\MA4.exe
